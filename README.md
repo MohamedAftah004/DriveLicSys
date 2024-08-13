@@ -7,17 +7,16 @@ The project contain the following:
 ---------------------------------
 <br>
 
-**1. Login Screen**
-              - I used SHA-128 for storing passwords and login.<br>
-       - If the login fails three times, the system will be locked.<br>
-       - And the login attempts will be recorded with the username and operation details in the `Windows EventLog`.
-<br><br><br><br><br>
 
-
+**1. Login Screen**<br>
+  - I used SHA-128 for storing passwords and login. <br>
+  - If the login fails three times, the system will be locked.<br>
+  - And the login attempts will be recorded with the username and operation details in the `Windows EventLog`.<br>
+<br><br><br><br>
 
 
 **2. Main Menue** <br>
-       - Show current username at screen.
+  - Show current username at screen.
 <br><br><br><br><br>
 
 
