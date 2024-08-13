@@ -12,11 +12,16 @@ The project contain the following:
      -And the login attempts will be recorded with the username and operation details in the `Windows EventLog`.
 
 
-**1. Main Menue**
+
+
+
+**2. Main Menue**
     -Show current username at screen.
 
 
-**1. User Management**
+
+
+**3. User Management**
 - All CRUDS operations
   -Add user
   -Delete user
@@ -25,12 +30,17 @@ The project contain the following:
   -Show user info
 
 
-**3. People Managemetn**
+
+
+
+**4. People Managemetn**
   - All CRUDS operations
 
 
 
-**4. Application Types**
+
+
+**5. Application Types**
  -New Local Driving License Service.
  -Renew Driving License Service.
  -Replacement for a Lost Driving License.
@@ -40,7 +50,9 @@ The project contain the following:
 
 
 
-**4. Test Types**
+
+
+**6. Test Types**
  -Vision Test
  -Written (Theory) Test
  -Practical (Street) Test
