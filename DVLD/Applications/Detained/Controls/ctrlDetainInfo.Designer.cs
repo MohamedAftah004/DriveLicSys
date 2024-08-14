@@ -1,0 +1,265 @@
+﻿namespace DVLD.Applications.Detained
+{
+    partial class ctrlDetainInfo
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.gbDetainInfo = new System.Windows.Forms.GroupBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.lblCreatedBy = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblLicenseID = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.lblDetainDate = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.lblDetainID = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.gbDetainInfo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // gbDetainInfo
+            // 
+            this.gbDetainInfo.Controls.Add(this.pictureBox5);
+            this.gbDetainInfo.Controls.Add(this.lblCreatedBy);
+            this.gbDetainInfo.Controls.Add(this.label7);
+            this.gbDetainInfo.Controls.Add(this.pictureBox1);
+            this.gbDetainInfo.Controls.Add(this.lblLicenseID);
+            this.gbDetainInfo.Controls.Add(this.label2);
+            this.gbDetainInfo.Controls.Add(this.pictureBox4);
+            this.gbDetainInfo.Controls.Add(this.label5);
+            this.gbDetainInfo.Controls.Add(this.pictureBox3);
+            this.gbDetainInfo.Controls.Add(this.lblDetainDate);
+            this.gbDetainInfo.Controls.Add(this.label3);
+            this.gbDetainInfo.Controls.Add(this.pictureBox2);
+            this.gbDetainInfo.Controls.Add(this.lblDetainID);
+            this.gbDetainInfo.Controls.Add(this.label4);
+            this.gbDetainInfo.Font = new System.Drawing.Font("Arial", 12.25F);
+            this.gbDetainInfo.Location = new System.Drawing.Point(3, 3);
+            this.gbDetainInfo.Name = "gbDetainInfo";
+            this.gbDetainInfo.Size = new System.Drawing.Size(994, 163);
+            this.gbDetainInfo.TabIndex = 0;
+            this.gbDetainInfo.TabStop = false;
+            this.gbDetainInfo.Text = "Detain Info";
+            this.gbDetainInfo.Enter += new System.EventHandler(this.gbDetainInfo_Enter);
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::DVLD.Properties.Resources.User_32__2;
+            this.pictureBox5.Location = new System.Drawing.Point(712, 78);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(31, 26);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 210;
+            this.pictureBox5.TabStop = false;
+            // 
+            // lblCreatedBy
+            // 
+            this.lblCreatedBy.AutoSize = true;
+            this.lblCreatedBy.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCreatedBy.Location = new System.Drawing.Point(750, 81);
+            this.lblCreatedBy.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCreatedBy.Name = "lblCreatedBy";
+            this.lblCreatedBy.Size = new System.Drawing.Size(49, 19);
+            this.lblCreatedBy.TabIndex = 209;
+            this.lblCreatedBy.Text = "[???]";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(559, 81);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(104, 19);
+            this.label7.TabIndex = 208;
+            this.label7.Text = "Created By: ";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::DVLD.Properties.Resources.LocalDriving_License;
+            this.pictureBox1.Location = new System.Drawing.Point(712, 39);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(31, 26);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 207;
+            this.pictureBox1.TabStop = false;
+            // 
+            // lblLicenseID
+            // 
+            this.lblLicenseID.AutoSize = true;
+            this.lblLicenseID.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLicenseID.Location = new System.Drawing.Point(750, 42);
+            this.lblLicenseID.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblLicenseID.Name = "lblLicenseID";
+            this.lblLicenseID.Size = new System.Drawing.Size(49, 19);
+            this.lblLicenseID.TabIndex = 206;
+            this.lblLicenseID.Text = "[???]";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(559, 42);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(99, 19);
+            this.label2.TabIndex = 205;
+            this.label2.Text = "License ID: ";
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::DVLD.Properties.Resources.money_32;
+            this.pictureBox4.Location = new System.Drawing.Point(215, 117);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(31, 26);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 204;
+            this.pictureBox4.TabStop = false;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(62, 120);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(93, 19);
+            this.label5.TabIndex = 202;
+            this.label5.Text = "Fine Fees: ";
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::DVLD.Properties.Resources.Calendar_32;
+            this.pictureBox3.Location = new System.Drawing.Point(215, 78);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(31, 26);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 201;
+            this.pictureBox3.TabStop = false;
+            // 
+            // lblDetainDate
+            // 
+            this.lblDetainDate.AutoSize = true;
+            this.lblDetainDate.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDetainDate.Location = new System.Drawing.Point(253, 81);
+            this.lblDetainDate.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblDetainDate.Name = "lblDetainDate";
+            this.lblDetainDate.Size = new System.Drawing.Size(49, 19);
+            this.lblDetainDate.TabIndex = 200;
+            this.lblDetainDate.Text = "[???]";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(62, 81);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(107, 19);
+            this.label3.TabIndex = 199;
+            this.label3.Text = "Detain Date: ";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::DVLD.Properties.Resources.Number_32;
+            this.pictureBox2.Location = new System.Drawing.Point(215, 39);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(31, 26);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 192;
+            this.pictureBox2.TabStop = false;
+            // 
+            // lblDetainID
+            // 
+            this.lblDetainID.AutoSize = true;
+            this.lblDetainID.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDetainID.Location = new System.Drawing.Point(253, 42);
+            this.lblDetainID.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblDetainID.Name = "lblDetainID";
+            this.lblDetainID.Size = new System.Drawing.Size(49, 19);
+            this.lblDetainID.TabIndex = 191;
+            this.lblDetainID.Text = "[???]";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(62, 42);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(88, 19);
+            this.label4.TabIndex = 190;
+            this.label4.Text = "Detain ID: ";
+            // 
+            // ctrlDetainInfo
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.gbDetainInfo);
+            this.Name = "ctrlDetainInfo";
+            this.Size = new System.Drawing.Size(1000, 184);
+            this.Load += new System.EventHandler(this.ctrlDetainInfo_Load);
+            this.gbDetainInfo.ResumeLayout(false);
+            this.gbDetainInfo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox gbDetainInfo;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label lblDetainDate;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label lblDetainID;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.Label lblCreatedBy;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblLicenseID;
+        private System.Windows.Forms.Label label2;
+    }
+}
