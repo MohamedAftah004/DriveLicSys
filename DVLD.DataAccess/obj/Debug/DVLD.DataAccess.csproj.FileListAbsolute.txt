@@ -1,0 +1,6 @@
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\obj\Debug\DVLD.DataAccess.csproj.AssemblyReference.cache
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\obj\Debug\DVLD.DataAccess.csproj.CoreCompileInputs.cache
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\bin\Debug\DVLD.DataAccess.dll
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\bin\Debug\DVLD.DataAccess.pdb
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\obj\Debug\DVLD.DataAccess.dll
+M:\Programming\2 Month Bootcamp\Projects\Fix-DVLD\DriveLicSys\DVLD.DataAccess\obj\Debug\DVLD.DataAccess.pdb
